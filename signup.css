@@ -1,0 +1,113 @@
+
+<style>
+form.example::after{
+	content:"";
+	clear:both;
+	display:table;
+	}
+	#copyright {
+	background:#E5E4E2;
+	}
+	#header{
+	background:#E5E4E2;
+	}
+	#menu{
+	background:#E5E4E2;
+	}
+	.dropdown {
+		display: inline-block;
+		position: relative;
+	}
+	.feedback1 {
+		float: left;
+		width: 25%;
+		margin-top: 6px;
+	}
+	.feedback2{
+		float: left;
+		width: 75%;
+		margin-top: 6px;
+	}
+	.feedback2 {
+		content: "";
+		display: table;
+		clear: both;
+	}
+	button {
+			background-color: tan;
+			color: white;
+			border: none;
+			border-radius: 2px;
+			height: 30px;
+			width: 100px;
+			border-radius: 2px;
+			cursor: pointer;
+			margin-right: 8px;
+		}
+		button: hover {
+			opacity: 0.6;
+			}
+		.error {
+			background: #F2DEDE;
+			color:#0c0101;
+			padding: 1opx;
+			width: 95%;
+			border-radius: 5px;
+			margin: 20px auto;
+		}
+form.example::after{
+	content:"";
+	clear:both;
+	display:table;
+	}
+	#copyright {
+	background:#E5E4E2;
+	}
+	#header{
+	background:#E5E4E2;
+	}
+	#menu{
+	background:#E5E4E2;
+	}
+	.dropdown {
+		display: inline-block;
+		position: relative;
+	}
+	.feedback1 {
+		float: left;
+		width: 25%;
+		margin-top: 6px;
+	}
+	.feedback2{
+		float: left;
+		width: 75%;
+		margin-top: 6px;
+	}
+	.feedback2 {
+		content: "";
+		display: table;
+		clear: both;
+	}
+	button {
+			background-color: tan;
+			color: white;
+			border: none;
+			border-radius: 2px;
+			height: 30px;
+			width: 100px;
+			border-radius: 2px;
+			cursor: pointer;
+			margin-right: 8px;
+		}
+		button: hover {
+			opacity: 0.6;
+			}
+		.error {
+			background: #F2DEDE;
+			color:#0c0101;
+			padding: 1opx;
+			width: 95%;
+			border-radius: 5px;
+			margin: 20px auto;
+		}
+	</style>
