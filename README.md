@@ -15,18 +15,20 @@ Staff – will be able to view users and jobs.
 Database
 Web browser
 Operating system #Functional requirements 
-##Admin module
-Login as admin
-Manage users, employers, graduates and log out
-Manage jobs
-Manage details 
-##Users module
-login
-create account
-post jobs
-apply jobs
-upload cv
-log out
-##Non-functional requirements
-
+### .Admin module
+-Login as admin
+-Manage users, employers, graduates and log out
+-Manage jobs
+-Manage details 
+### .Users module
+-login
+-create account
+-post jobs
+-apply jobs
+-upload cv
+-log out
+## Non-functional requirements
+-The system should be user friendly
+-The system should be easy to access
+-The system should be secure
 
